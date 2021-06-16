@@ -1,2 +1,3 @@
 # Kiosk_project
-First Kiosk
+First Kiosk</br>
+Untact Kiosk using hand recognition</br>
